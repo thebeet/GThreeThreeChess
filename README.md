@@ -1,4 +1,8 @@
 GThreeThreeChess
 ================
 
-A Three Three Chess Game, 
+A Three Three Chess Game
+
+## How to Play?
+- make
+- ./GThreeThreeChess
